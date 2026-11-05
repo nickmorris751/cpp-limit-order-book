@@ -1,0 +1,25 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and profiling files
+*.pdb
+*.ilk
+*.prof
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
